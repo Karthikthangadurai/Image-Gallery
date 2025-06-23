@@ -32,4 +32,4 @@ It's designed to showcase a clean and organized layout, focusing on visual prese
 - 
 ## 🔗 Live Preview
 You can check the live versions here:  
-[🔹 Image Gallery Live](#)  
+[🔹 Image Gallery Live](https://karthikthangadurai.github.io/Image-Gallery/)  
